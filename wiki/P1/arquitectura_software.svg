@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.0633188"
-     inkscape:cx="123.6694"
-     inkscape:cy="560.039"
+     inkscape:zoom="1.3079777"
+     inkscape:cx="316.51915"
+     inkscape:cy="553.90851"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
@@ -289,7 +289,7 @@
          id="tspan189897"
          style="font-size:7.05556px;stroke-width:0.264583"
          x="24.23406"
-         y="152.76643">Finite States Machine</tspan></text>
+         y="152.76643">BSA ALGORITHM</tspan></text>
     <g
        id="g246029"
        style="display:inline"
@@ -363,15 +363,20 @@
          r="15.001187" />
       <text
          xml:space="preserve"
-         style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-         x="53.957634"
-         y="179.51718"
+         style="font-size:5.94586px;line-height:1.25;font-family:sans-serif;stroke-width:0.297293"
+         x="55.574196"
+         y="174.71481"
          id="text129699"><tspan
            sodipodi:role="line"
            id="tspan129697"
-           style="stroke-width:0.264583"
-           x="53.957634"
-           y="179.51718">BSA</tspan></text>
+           style="font-size:5.94586px;stroke-width:0.297293"
+           x="55.574196"
+           y="174.71481">Spiral</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.94586px;stroke-width:0.297293"
+           x="55.574196"
+           y="182.14714"
+           id="tspan11541">Motion</tspan></text>
     </g>
     <g
        id="g180238"
