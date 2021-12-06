@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="trayectoria-drone.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.98977608"
+     inkscape:cx="271.77864"
+     inkscape:cy="521.8352"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path852" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.89134;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Lend)"
+       id="path847"
+       sodipodi:cx="314.4949"
+       sodipodi:cy="435.32553"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="210.0885"
+       sodipodi:argument="-17.755772"
+       sodipodi:t0="0"
+       d="m 314.4949,435.32553 c 4.83622,9.35766 -10.22791,11.13586 -15.55304,8.03811 -14.43075,-8.39472 -10.59095,-29.08078 -0.52317,-39.14419 18.0089,-18.00108 47.75135,-11.30753 62.73533,6.99176 21.9896,26.85496 12.13109,66.70618 -14.5067,86.32648 -35.50397,26.15077 -85.76597,13.00535 -109.91762,-22.02163 -30.39238,-44.07789 -13.9069,-104.8768 29.53657,-133.50877 52.61587,-34.67715 124.01655,-14.82444 157.09991,37.0515 38.9876,61.13401 15.75206,143.17437 -44.56643,180.69106 -69.64009,43.3145 -162.34426,16.68638 -204.2822,-52.08137 -47.65256,-78.13829 -17.6254,-181.5226 59.5963,-227.87335 86.63108,-51.99853 200.70711,-18.56781 251.46449,67.11124 56.35031,95.11999 19.51276,219.89626 -74.62617,275.05564"
+       transform="matrix(0.26458333,0,0,0.26458333,37.960888,12.640165)"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="38.892117"
+       y="60.257458"
+       id="text4742"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4740"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="38.892117"
+         y="60.257458">yaw_inicial = 0.3</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="38.892117"
+         y="66.872047"
+         id="tspan4744">yaw_final = 0.1</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="38.892117"
+         y="73.486633"
+         id="tspan4746">decremento = 0.0001</tspan></text>
+    <path
+       id="path7040"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.433833,139.11445 -8.551193,-2.29989 m 3.299381,4.82648 1.246441,7.04268 m 0.213442,-12.49104 -1.459883,5.44836 -4.525486,5.96493 m 10.180277,-14.70138 a 3.2463608,3.2463608 0 0 1 -3.246361,3.24636 3.2463608,3.2463608 0 0 1 -3.246361,-3.24636 3.2463608,3.2463608 0 0 1 3.246361,-3.24636 3.2463608,3.2463608 0 0 1 3.246361,3.24636 z m 3.57561,-4.55698 -5.867878,24.64721 -10.989707,-2.60183 5.867879,-24.64721 z"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path7040-3"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.44113,125.82951 -8.75087,1.35452 m 4.96934,3.08002 3.98794,5.93711 m -4.85599,-11.51047 0.86805,5.57336 -1.72683,7.2855 m 3.36575,-17.56247 a 3.2463608,3.2463608 0 0 1 -1.65631,4.28186 3.2463608,3.2463608 0 0 1 -4.28187,-1.6563 3.2463608,3.2463608 0 0 1 1.65631,-4.28187 3.2463608,3.2463608 0 0 1 4.28187,1.65631 z m 1.42743,-5.61369 4.60027,24.91495 -11.1032,2.06447 -4.60027,-24.91495 z"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path7040-56"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.79535,92.365073 8.8092,-0.900295 m -4.80346,-3.332815 -3.67566,-6.13535 m 4.2544,11.746137 -0.57874,-5.610787 2.10118,-7.186479 m -4.26923,17.364978 a 3.2463608,3.2463608 0 0 1 1.87546,-4.190509 3.2463608,3.2463608 0 0 1 4.19052,1.875459 3.2463608,3.2463608 0 0 1 -1.87547,4.190508 3.2463608,3.2463608 0 0 1 -4.19051,-1.875458 z m -1.71575,5.532378 -3.30602,-25.119454 11.19509,-1.487677 3.30602,25.119451 z"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path7040-2"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.654132,101.24944 -1.094057,-8.787233 m -3.226235,4.875677 -6.05292,3.809866 m 11.649603,-4.512019 -5.596683,0.702153 -7.231,-1.94242 m 17.45477,3.885802 a 3.2463608,3.2463608 0 0 1 -4.230791,-1.78273 3.2463608,3.2463608 0 0 1 1.78273,-4.230791 3.2463608,3.2463608 0 0 1 4.23079,1.782731 3.2463608,3.2463608 0 0 1 -1.782729,4.23079 z m 5.568821,1.593514 -25.040561,3.85836 -1.733843,-11.159613 25.040568,-3.858361 z"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path7040-5"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.85514,176.37729 -6.62551,5.87496 m 5.84559,-0.0994 6.56659,2.83424 m -10.31281,-7.05108 3.74622,4.21684 2.49081,7.0609 m -6.67451,-16.58974 a 3.2463608,3.2463608 0 0 1 0.92455,4.49699 3.2463608,3.2463608 0 0 1 -4.49699,0.92455 3.2463608,3.2463608 0 0 1 -0.92455,-4.49699 3.2463608,3.2463608 0 0 1 4.49699,-0.92455 z m -1.83778,-5.49305 17.35223,18.46122 -8.21935,7.74502 -17.35224,-18.46122 z"
+       inkscape:export-filename="/home/carloscam/Escritorio/universidad/robotica_servicio/wiki/P2/trayectoria-drone.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
